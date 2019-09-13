@@ -1,0 +1,8 @@
+git init
+
+git remote add origin https://github.com/jainhere/jainhere.github.io
+git remote -v
+
+git add .
+git commit -m "Changes"
+git push origin master
